@@ -1,1 +1,1 @@
-"# stu-spring-cloud-config" 
+# stu-spring-cloud-config
